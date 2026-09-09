@@ -1,4 +1,4 @@
-namespace: lisi-2
+namespace: lisi-5
 helm:
   repo: oci://dockerhub.kubekey.local/charts/nginx-httproute
   version: "0.3.0"
